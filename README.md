@@ -6,4 +6,4 @@ This project involves analyzing a music store's database using SQL to extract in
 * Postgre SQL
 * PgAdmin4
 Schema- Music Store Database
-![MusicstoreSchema]()
+![MusicstoreSchema](https://github.com/Prince0813/Music-Store-Analysis-Using-SQL/blob/main/schema_diagram.png)
